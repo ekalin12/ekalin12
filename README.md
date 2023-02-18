@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <h1>Ready for takeoff!<h1>
+  <h1>Ready for lift off!<h1>
   <img src="https://media.giphy.com/media/RQOUFIDRRG3O9lhLsd/giphy.gif" width="220"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/erickalin/">
